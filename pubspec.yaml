@@ -1,0 +1,6 @@
+name: community_learning_center
+description: Console-based Dart OOP app with async features (Lab 3 Midterm).
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0

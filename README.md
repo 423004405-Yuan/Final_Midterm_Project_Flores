@@ -35,4 +35,4 @@ programming.
 ```
 
 ## Author
-<Your Name> - BSIT
+Harvey yuan A. Flores - BSIT 
